@@ -1,0 +1,44 @@
+﻿  ConsoleApplication1.cpp
+D:\PCL 1.10.1\include\pcl-1.10\pcl\visualization\point_cloud_color_handlers.h(611,1): warning C4996: 'pcl::visualization::PointCloudColorHandler<pcl::PCLPointCloud2>::getColor': use getColor() without parameters instead
+D:\PCL 1.10.1\include\pcl-1.10\pcl\visualization\point_cloud_color_handlers.h(621): message : 参见“pcl::visualization::PointCloudColorHandler<pcl::PCLPointCloud2>::getColor”的声明
+D:\PCL 1.10.1\include\pcl-1.10\pcl\visualization\interactor_style.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\PCL 1.10.1\include\pcl-1.10\pcl\visualization\pcl_visualizer.h(1603,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\PCL 1.10.1\include\pcl-1.10\pcl\visualization\point_cloud_color_handlers.h(109,1): warning C4996: 'pcl::visualization::PointCloudColorHandler<PointT>::getColor': use getColor() without parameters instead
+          with
+          [
+              PointT=pcl::PointXYZL
+          ]
+D:\PCL 1.10.1\include\pcl-1.10\pcl\visualization\point_cloud_color_handlers.h(119): message : 参见“pcl::visualization::PointCloudColorHandler<PointT>::getColor”的声明
+          with
+          [
+              PointT=pcl::PointXYZL
+          ]
+D:\PCL 1.10.1\include\pcl-1.10\pcl\visualization\point_cloud_color_handlers.h(107): message : 在编译 类 模板 成员函数“vtkSmartPointer<vtkDataArray> pcl::visualization::PointCloudColorHandler<PointT>::getColor(void) const”时
+          with
+          [
+              PointT=pcl::PointXYZL
+          ]
+D:\PCL 1.10.1\include\pcl-1.10\pcl\visualization\point_cloud_color_handlers.h(120): message : 查看对正在编译的函数 模板 实例化“vtkSmartPointer<vtkDataArray> pcl::visualization::PointCloudColorHandler<PointT>::getColor(void) const”的引用
+          with
+          [
+              PointT=pcl::PointXYZL
+          ]
+D:\PCL 1.10.1\include\pcl-1.10\pcl\visualization\point_cloud_color_handlers.h(506): message : 查看对正在编译的 类 模板 实例化“pcl::visualization::PointCloudColorHandler<PointT>”的引用
+          with
+          [
+              PointT=pcl::PointXYZL
+          ]
+D:\PCL 1.10.1\include\pcl-1.10\pcl\visualization\pcl_visualizer.h(906): message : 查看对正在编译的 类 模板 实例化“pcl::visualization::PointCloudColorHandlerLabelField<pcl::PointXYZL>”的引用
+D:\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(54): message : 查看对正在编译的 类 模板 实例化“boost::arg<9>”的引用
+D:\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(53): message : 查看对正在编译的 类 模板 实例化“boost::arg<8>”的引用
+D:\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(52): message : 查看对正在编译的 类 模板 实例化“boost::arg<7>”的引用
+D:\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(51): message : 查看对正在编译的 类 模板 实例化“boost::arg<6>”的引用
+D:\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(50): message : 查看对正在编译的 类 模板 实例化“boost::arg<5>”的引用
+D:\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(49): message : 查看对正在编译的 类 模板 实例化“boost::arg<4>”的引用
+D:\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(48): message : 查看对正在编译的 类 模板 实例化“boost::arg<3>”的引用
+D:\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(47): message : 查看对正在编译的 类 模板 实例化“boost::arg<2>”的引用
+D:\PCL 1.10.1\3rdParty\Boost\include\boost-1_72\boost\bind\placeholders.hpp(46): message : 查看对正在编译的 类 模板 实例化“boost::arg<1>”的引用
+D:\Visual Studio\VC\Tools\MSVC\14.24.28314\include\chrono(632): message : 查看对正在编译的 类 模板 实例化“std::chrono::duration<double,std::ratio<1,1>>”的引用
+D:\Visual Studio\VC\Tools\MSVC\14.24.28314\include\chrono(178): message : 查看对正在编译的 类 模板 实例化“std::chrono::duration<__int64,std::nano>”的引用
+D:\Visual Studio\VC\Tools\MSVC\14.24.28314\include\chrono(610): message : 查看对正在编译的 类 模板 实例化“std::chrono::time_point<std::chrono::steady_clock,std::chrono::nanoseconds>”的引用
+  ConsoleApplication1.vcxproj -> C:\Users\Xu_Ruijie\Desktop\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
