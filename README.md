@@ -1,2 +1,3 @@
-# Kinect-opencv-PCL-
-获得彩色点云PCD文件并显示
+# Kinect-opencv-PCL
+
+collect the original point cloud data with Kinect v2 and save it as.pcd
